@@ -13,7 +13,7 @@ Made the framework more scalable by Using Test data as Examples in Feature file.
 
 Used Page Object Model for BDD framework 
 
-Bug Identified : "Company" Field in Contact Us page was not mentiones as "Required". But clicking on Send Button is giving Validation error on  "Company" Field saying "Mandatory Field"
+Bug Identified : "Company" Field in Contact Us page was not mentioned as "Required". But clicking on Send Button is giving Validation error on  "Company" Field saying "Mandatory Field"
 
 Improvements :
 
